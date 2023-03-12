@@ -1,0 +1,70 @@
+{
+  "docs": {
+    "Basic": [
+      "basic/setup",
+      {
+        "type": "category",
+        "label": "Getting Started",
+        "items": [
+          "basic/getting-started/basic_type_example",
+          "basic/getting-started/function_components",
+          "basic/getting-started/hooks",
+          "basic/getting-started/class_components",
+          "basic/getting-started/default_props",
+          "basic/getting-started/forms_and_events",
+          "basic/getting-started/context",
+          "basic/getting-started/forward_and_create_ref",
+          "basic/getting-started/portals",
+          "basic/getting-started/error_boundaries",
+          "basic/getting-started/concurrent"
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Troubleshooting Handbook",
+        "items": [
+          "basic/troubleshooting/types",
+          "basic/troubleshooting/operators",
+          "basic/troubleshooting/utilities",
+          "basic/troubleshooting/non_ts_files",
+          "basic/troubleshooting/tsconfig",
+          "basic/troubleshooting/official_typings_bugs",
+          "basic/troubleshooting/learn_ts"
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Recommendations",
+        "items": [
+          "basic/recommended/codebases",
+          "basic/recommended/talks",
+          "basic/recommended/resources"
+        ]
+      },
+      "basic/useful-hooks",
+      "basic/editor_integration",
+      "basic/linting",
+      "basic/examples"
+    ],
+    "HOC": [
+      "hoc/intro",
+      "hoc/full_example",
+      "hoc/react_hoc_docs",
+      "hoc/excluding_props"
+    ],
+    "Advanced": [
+      "advanced/intro",
+      "advanced/utility_types",
+      "advanced/patterns_by_usecase",
+      "advanced/patterns_by_version",
+      "advanced/misc_concerns",
+      "advanced/types_react_api"
+    ],
+    "Migration": [
+      "migration/intro",
+      "migration/js_docs",
+      "migration/from_js",
+      "migration/from_flow"
+    ]
+  }
+}
